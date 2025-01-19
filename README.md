@@ -1,4 +1,4 @@
-# Black_Swan-Research
+# Black Swan Research
 
 ## Objective
 Research in market black swan events.
